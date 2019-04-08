@@ -1,3 +1,5 @@
+Please note the original repo is no longer maintained, this fork is purely to support Xcode 10.2 for iAuditor iOS, we will start removing Freddy from iAuditor in near future.
+
 ## Why Freddy?
 
 Parsing JSON elegantly and safely can be hard, but Freddy is here to help. Freddy is a reusable framework for parsing JSON in Swift. It has three principal benefits.
